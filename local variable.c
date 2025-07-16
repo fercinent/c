@@ -20,7 +20,7 @@ int delete(int a[],int pos){
 	}
 	return pos;
 }
-void diplay(int a[],int pos){
+void display(int a[],int pos){
 	int i;
 	if(pos==-1){
 		printf("array is empty\n");
